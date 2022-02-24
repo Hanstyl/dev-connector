@@ -1,6 +1,6 @@
 ## DevConnector Web App using React JS
 
-- #### Heroku Link [here](https://dashboard.heroku.com/apps/developer-dashboard-mern).
+- #### Heroku Link [here](https://developer-dashboard-mern.herokuapp.com/).
 
 
 - #### Github Repository [link](https://github.com/Hanstyl/popcorn)
