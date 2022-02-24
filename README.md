@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">MERN project: DevConnector</h1>
   
 <p align="center">
@@ -164,7 +164,7 @@ No testing at this time.
 
         $ npm run server // to start only Backend server
 
-        $ npm run Client // to start React Development server only (But it will not working alone as api depends on Backend also)
+        $ npm run frontend server // to start React Development server only (But it will not working alone as api depends on Backend also)
         ```
 
 
@@ -183,4 +183,4 @@ No testing at this time.
 - User Profile Image upload feature (Cloudinary API)
 - Forgot Password Feature
 - Pagination feature on Posts and Developers page
->>>>>>> 737f1530f845ec0175c888f1b810f8f8fc7ebdac
+
