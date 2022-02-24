@@ -1,5 +1,5 @@
 <h1 align="center">DevConnector Web App using React JS</h1>
-
+  
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/Sequelize-blue"  />
@@ -30,6 +30,7 @@ Provide a small community for new developer to exchange projects, ideas.
 - [Questions](#questions)
 
 ## 💿 Technologies used
+
 1. `Node JS Express Framework` is used as a building Backend part of this Website.
 2. `MySQL` is used to Store User Details, passwords and URL of Photos.
 3. `JWT` is used for for Authenticate a User. User can only authenticate using **Custom Email Password** Method.
@@ -136,21 +137,3 @@ No testing at this time.
   👋 [Nathan](https://github.com/Hanstyl)<br>
   👋 [Alvis](https://github.com/alviszheng)<br>
   👋 [Shad](https://github.com/xxx)<br>
-=======
-#
-
-
-
-### Website Preview
-
-## <img src="./assets/screenshot/preview1.png" alt="Homepage"> 
-
-## <img src="./assets/screenshot/preview2.png" alt="Dashboard">
-
-### TODO:
-
-- Email Verification by Send Grid API
-- User Profile Image upload feature (Cloudinary API)
-- Forgot Password Feature
-- Pagination feature on Posts and Developers page
->>>>>>> 737f1530f845ec0175c888f1b810f8f8fc7ebdac
