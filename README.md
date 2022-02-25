@@ -14,7 +14,7 @@ Provide a small community for new developer to exchange projects, ideas.
 
 <br>
 
-✋ [GitHub Repository](https://github.com/Hanstyl/popcorn)
+✋ [GitHub Repository](https://github.com/Hanstyl/dev-connector)
 
 ✋ [Deployed Heroku link](https://developer-dashboard-mern.herokuapp.com)
 
@@ -58,7 +58,7 @@ Provide a small community for new developer to exchange projects, ideas.
 
    - Clone this Repository or Download the zip File.
         ```
-        $ git clone https://github.com/Hanstyl/popcorn.git
+        $ git clone hhttps://github.com/Hanstyl/dev-connector.git
 
    - Create a new file named `.env` on `root` directory which contains all of our secret credentials for this project.
         ```
