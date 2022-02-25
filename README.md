@@ -45,6 +45,8 @@ Provide a small community for new developer to exchange projects, ideas.
 ## <img src="./assets/screenshot/preview1.png" alt="Homepage"> 
 ## <img src="./assets/screenshot/preview2.png" alt="Dashboard">
   
+  Deployed App - https://developer-dashboard-mern.herokuapp.com/
+  
 ## 💾 Installation local env
 
 1. **Prerequisites**
