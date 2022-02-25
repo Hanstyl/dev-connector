@@ -12,6 +12,8 @@
 
 Provide a small community for new developer to exchange projects, ideas. 
 
+<br>
+
 ✋ [GitHub Repository](https://github.com/Hanstyl/popcorn)
 
 ✋ [Deployed Heroku link](https://developer-dashboard-mern.herokuapp.com)
@@ -19,9 +21,8 @@ Provide a small community for new developer to exchange projects, ideas.
 ## Table of Contents
 
 - [Technologies used](#technologies-used)
-- [Wireframe](#wireframe)
-- [Installation local env](#installation-local-env)
 - [Screenshots](#screenshots)
+- [Installation local env](#installation-local-env)
 - [License](#license)
 - [Contributing](#contributing)
 - [Development](#development)
@@ -39,10 +40,11 @@ Provide a small community for new developer to exchange projects, ideas.
 6. `Bootstrap` is used for building UI and this website is Responsive for Desktop Devices and Tabs only (I am working on for responsiveness on small Devices)
 7. `Heroku` is used for hosting the backend code and frontend as well.
 
+## 📷 Screenshots
 
-## 🖼️ Wireframe
-
-
+## <img src="./assets/screenshot/preview1.png" alt="Homepage"> 
+## <img src="./assets/screenshot/preview2.png" alt="Dashboard">
+  
 ## 💾 Installation local env
 
 1. **Prerequisites**
@@ -88,11 +90,6 @@ As a new developer
 I want a GIVEN a small community to share my projects and ideas
 So that I can develop my skills
 
-## 📷 Screenshots
-
-## <img src="./assets/screenshot/preview1.png" alt="Homepage"> 
-
-## <img src="./assets/screenshot/preview2.png" alt="Dashboard">
 
 ## ✏️ License
 
