@@ -1,21 +1,35 @@
 {
-  "name": "popcorn",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server/server.js",
-  "scripts": {
-    "start": "node server/server.js",
-    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
-    "install": "cd server && npm i && cd ../client && npm i",
-    "build": "cd client && npm run build"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "apollo-server-express": "^2.15.0"
-  }
+	"name": "devconnector-mern",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"server": "nodemon index.js",
+		"frontend": "npm start --prefix frontend",
+		"dev": "concurrently \"npm run server\" \"npm run frontend\"",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bcrypt": "^5.0.0",
+		"cookie-parser": "^1.4.5",
+		"cors": "^2.8.5",
+		"express": "^4.17.1",
+		"express-async-errors": "^3.1.1",
+		"jsonwebtoken": "^8.5.1",
+		"mysql": "^2.18.1",
+		"node-fetch": "^2.6.1",
+		"validator": "^13.5.2",
+		"xss": "^1.0.8"
+	},
+	"devDependencies": {
+		"concurrently": "^5.3.0",
+		"dotenv": "^8.2.0",
+		"morgan": "^1.10.0",
+		"nodemon": "^2.0.7"
+	}
 }
