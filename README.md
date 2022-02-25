@@ -33,7 +33,7 @@ Provide a small community for new developer to exchange projects, ideas.
 ## 💿 Technologies used
 
 1. `Node JS Express Framework` is used as a building Backend part of this Website.
-2. `MySQL` is used to Store User Details, passwords and URL of Photos.
+2. `MySQL` is used to Store User Details, passwords and URLs.
 3. `JWT` is used for for Authenticate a User. User can only authenticate using **Custom Email Password** Method.
 4. `React JS` is used as frontend Framework for building SPA.
 5. `Redux` for State Management on React Application
