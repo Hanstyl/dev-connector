@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
 </p>
 
- <h4>🔍 Designed and coded by | <a href="https://github.com/JamesVelarde">James Velarde</a> | <a href="https://github.com/Hanstyl">Nathan Nelson</a> | <a href="https://github.com/alviszheng">Alvis Zheng</a> | <a href="https://github.com/xxx">Shad</a>
+ <h4>🔍 Designed and coded by | <a href="https://github.com/JamesVelarde">James Velarde</a> | <a href="https://github.com/Hanstyl">Nathan Nelson</a> | <a href="https://github.com/alviszheng">Alvis Zheng</a> | <a href="https://github.com/xxx">Shad Pike</a>
 
 <br>
 
